@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @realdeeep
 - 👀 I’m interested in machine learning and trying to find its applications across various sectors
 - 🌱 I’m currently learning neural style transfer
-- 💞️ I’m looking to collaborate on any kind of creative idea on implementation of machine learning
+- 💞️ I’m looking to collaborate on a project on musical style transfer
 - 📫 I can be reached at this email address: deepn22920@gmail.com
 
 <!---
