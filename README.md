@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @realdeeep
-- 👀 I’m interested in machine learning and trying to find its applications across various sectors
-- 🌱 I’m currently learning neural style transfer
-- 💞️ I’m looking to collaborate on a project on musical style transfer
+- 👀 Interested in Machine Learning and Data Science and their use cases in real life
+- 🌱 Currently learning musical neural style transfer
+- 💞️ Looking to collaborate on a project on musical style transfer
 
 <!---
 realdeeep/realdeeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
